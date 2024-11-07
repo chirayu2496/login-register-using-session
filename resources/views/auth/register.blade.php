@@ -42,7 +42,7 @@
                         <div class="text-danger">{{ $message }}</div>
                     @enderror
                     <div>
-                        <a href="{{ route('login-show') }}">Login</a>
+                        <a href="{{ route('login') }}">Login</a>
                     </div>
 
                     <div class="float-end mt-3">
